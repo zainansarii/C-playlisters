@@ -1,2 +1,2 @@
 # playlisters
-Shuffle playlist
+Simple algorithm to shuffle music playlist
